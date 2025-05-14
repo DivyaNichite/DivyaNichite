@@ -1,3 +1,5 @@
+
+👋 About Me
 Hi, I'm Divya Nichite — a dedicated Web Designer and UI/UX Designer passionate about crafting clean, intuitive, and visually appealing digital experiences.
 
 🔧 What I Do
